@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library_books>
+	<book category="technical">
+	   
+	    
+		<title>Java for Beginners</title>
+		<author>Julia Smith</author>
+		<ISBN>RF-2311-11-2016</ISBN>
+		<title>Python 123</title>
+		<author>Jenny Briggs</author>
+		<ISBN>RF-2509-12-2015</ISBN>
+		
+	</book>
+	<book category="cookery">
+		<title>Thai Food</title>
+		<author>Kim Jones</author>
+		<ISBN>HF-3002-13-5012</ISBN>
+		<title>French Food</title>
+		<author>Marcel Proust</author>
+		<ISBN>3004-12-5016</ISBN>
+		
+	</book>
+	
+</library_books>
